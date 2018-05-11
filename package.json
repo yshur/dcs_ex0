@@ -1,0 +1,14 @@
+{
+  "name": "dcs_ex0",
+  "version": "1.0.0",
+  "description": "ex0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yair shur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
